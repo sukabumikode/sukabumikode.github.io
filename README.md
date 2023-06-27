@@ -1,2 +1,2 @@
 # sukabumikode.github.io
-Github page for sukabumikode
+Github page sukabumikode
